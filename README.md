@@ -46,6 +46,9 @@ https://github.com/kuzmich/python-challenge-solution/blob/master/solution.ipynb)
 completing the problems.
 
 ### Community
+* [Medium](https://medium.com/@baditaflorin/top-100-python-articles-on-medium-until-jan-2017-23ca8bc5ee87) Cool articles
+by the community
+
 
 * [_CodeTriage_](https://www.codetriage.com/) Help out your favorite open source projects and become a better 
 developer while doing it. Pick your favorite repos to receive a different open issue in your inbox every day. Fix 
